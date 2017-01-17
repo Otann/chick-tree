@@ -1,0 +1,245 @@
+{"chickens": {
+    "blackchicken": {
+      "parent1":"",
+      "parent2":""
+    },
+    "blazechicken": {
+      "parent1":"GoldChicken",
+      "parent2":"LavaChicken"
+    },
+    "bluechicken": {
+      "parent1":"",
+      "parent2":""
+    },
+    "brownchicken": {
+      "parent1":"RedChicken",
+      "parent2":"GreenChicken"
+    },
+    "chickenosto": {
+      "parent1":"BlackChicken",
+      "parent2":"EnderChicken"
+    },
+    "claychicken": {
+      "parent1":"SnowballChicken",
+      "parent2":"SandChicken"
+    },
+    "coalchicken": {
+      "parent1":"FlintChicken",
+      "parent2":"LogChicken"
+    },
+    "diamondchicken": {
+      "parent1":"GlassChicken",
+      "parent2":"GoldChicken"
+    },
+    "emeraldchicken": {
+      "parent1":"DiamondChicken",
+      "parent2":"GreenChicken"
+    },
+    "enderchicken": {
+      "parent1":"DiamondChicken",
+      "parent2":"NetherwartChicken"
+    },
+    "flintchicken": {
+      "parent1":"",
+      "parent2":""
+    },
+    "general": {
+    },
+    "ghastchicken": {
+      "parent1":"WhiteChicken",
+      "parent2":"BlazeChicken"
+    },
+    "glasschicken": {
+      "parent1":"QuartzChicken",
+      "parent2":"RedstoneChicken"
+    },
+    "glowstonechicken": {
+      "parent1":"QuartzChicken",
+      "parent2":"YellowChicken"
+    },
+    "goldchicken": {
+      "parent1":"IronChicken",
+      "parent2":"YellowChicken"
+    },
+    "greenchicken": {
+      "parent1":"",
+      "parent2":""
+    },
+    "gunpowderchicken": {
+      "parent1":"SandChicken",
+      "parent2":"FlintChicken"
+    },
+    "ironchicken": {
+      "parent1":"FlintChicken",
+      "parent2":"WhiteChicken"
+    },
+    "lavachicken": {
+      "parent1":"CoalChicken",
+      "parent2":"QuartzChicken"
+    },
+    "leatherchicken": {
+      "parent1":"StringChicken",
+      "parent2":"BrownChicken"
+    },
+    "logchicken": {
+      "parent1":"",
+      "parent2":""
+    },
+    "magmachicken": {
+      "parent1":"SlimeChicken",
+      "parent2":"BlazeChicken"
+    },
+    "netherwartchicken": {
+      "parent1":"BrownChicken",
+      "parent2":"GlowstoneChicken"
+    },
+    "quartzchicken": {
+      "parent1":"",
+      "parent2":""
+    },
+    "redchicken": {
+      "parent1":"",
+      "parent2":""
+    },
+
+    "redstonechicken": {
+      "parent1":"RedChicken",
+      "parent2":"SandChicken"
+    },
+    "sandchicken": {
+      "parent1":"",
+      "parent2":""
+    },
+    "slimechicken": {
+      "parent1":"ClayChicken",
+      "parent2":"GreenChicken"
+    },
+    "smartchicken": {
+      "parent1":"",
+      "parent2":""
+    },
+    "snowballchicken": {
+      "parent1":"BlueChicken",
+      "parent2":"LogChicken"
+    },
+    "stringchicken": {
+      "parent1":"BlackChicken",
+      "parent2":"LogChicken"
+    },
+    "waterchicken": {
+      "parent1":"GunpowderChicken",
+      "parent2":"SnowballChicken"
+    },
+    "whitechicken": {
+      "parent1":"",
+      "parent2":""
+    },
+    "yellowchicken": {
+      "parent1":"",
+      "parent2":""}
+  },
+  "aluminunchicken": {
+    "parent1":"FlintChicken",
+    "parent2":"IronChicken"
+  },
+  "arditechicken": {
+    "parent1":"BlazeChicken",
+    "parent2":"MagmaChicken"
+  },
+  "bloodslime": {
+    "parent1":"SlimeChicken",
+    "parent2":"RedChicken"
+  },
+  "blueslime": {
+    "parent1":"SlimeChicken",
+    "parent2":"BlueChicken"
+  },
+  "colbaltchicken": {
+    "parent1":"NetherwartChicken",
+    "parent2":"GhastChicken"
+  },
+  "constantanchicken": {
+    "parent1":"copperchicken",
+    "parent2":"nickelchicken"
+  },
+  "copperchicken": {
+    "parent1":"YellowChicken",
+    "parent2":"BrownChicken"
+  },
+  "draconiumawakenedchicken": {
+    "parent1":"draconiumChicken",
+    "parent2":"EnderChicken"
+  },
+  "draconiumchicken": {
+    "parent1":"pigIronChicken",
+    "parent2":"EnderChicken"
+  },
+  "electrumchicken": {
+    "parent1":"silverchicken",
+    "parent2":"GoldChicken"
+  },
+  "elementiumchicken": {
+    "parent1":"manasteelchicken",
+    "parent2":"terrasteelchicken"
+  },
+  "knightslimechicken": {
+    "parent1":"manyullynChicken",
+    "parent2":"pigIronChicken"
+  },
+  "leadchicken": {
+    "parent1":"IronChicken",
+    "parent2":"CoalChicken"
+  },
+  "magmaslime": {
+    "parent1":"SlimeChicken",
+    "parent2":"MagmaChicken"
+  },
+  "manasteelchicken": {
+    "parent1":"IronChicken",
+    "parent2":"GhastChicken"
+  },
+  "manyullynchicken": {
+    "parent1":"arditeChicken",
+    "parent2":"colbaltChicken"
+  },
+  "nickelchicken": {
+    "parent1":"WhiteChicken",
+    "parent2":"GreenChicken"
+  },
+  "pcrystalchicken": {
+    "parent1":"WaterChicken",
+    "parent2":"EmeraldChicken"
+  },
+  "pigironchicken": {
+    "parent1":"arditeChicken",
+    "parent2":"IronChicken"
+  },
+  "pshardchicken": {
+    "parent1":"WaterChicken",
+    "parent2":"BlueChicken"
+  },
+  "purpleslime": {
+    "parent1":"bloodSlime",
+    "parent2":"BlueChicken"
+  },
+  "silverchicken": {
+    "parent1":"IronChicken",
+    "parent2":"WhiteChicken"
+  },
+  "steelchicken": {
+    "parent1":"IronChicken",
+    "parent2":"CoalChicken"
+  },
+  "terrasteelchicken": {
+    "parent1":"EnderChicken",
+    "parent2":"pCrystalChicken"
+  },
+  "uraniumchicken": {
+    "parent1":"RedstoneChicken",
+    "parent2":"EnderChicken"
+  },
+  "xpchicken": {
+    "parent1":"EmeraldChicken",
+    "parent2":"GreenChicken"
+  }
+}
