@@ -7,4 +7,4 @@ I thought that the best layout would be hierchal, so I created this visualizatio
 I thought that others might find this usefull too.
 
 <sub><i>(click on the image to download)</i></sub>
-[![tree](/chickens.png)](https://github.com/Otann/chick-tree/raw/master/chickens.png)
+[![tree](https://github.com/Otann/chick-tree/raw/master/chickens.png)](https://github.com/Otann/chick-tree/raw/master/chickens.png)
